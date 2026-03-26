@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//missionbayparking//sfmta-special-event-parking//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SFMTA Special Event Parking
+X-WR-CALDESC:SFMTA special event parking meter rates and tow-away zones dat
+ es.
+X-WR-TIMEZONE:America/Los_Angeles
+URL:https://www.sfmta.com/notices/current-special-event-parking-regulations
+ -schedule
+END:VCALENDAR
