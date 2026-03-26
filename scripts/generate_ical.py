@@ -273,13 +273,13 @@ def _make_merged_event(*, event_date: date, rows: List[ParsedRow], url: str) -> 
     location = _multi_venue_location(venues)
 
     if len(venues) == 1:
-        summary = f"Special event parking rates — {venues[0]}"
+        summary = f"SFMTA event parking rates — {venues[0]}"
     else:
-        summary = f"Special event parking rates — {' / '.join(venues)}"
+        summary = f"SFMTA event parking rates — {' / '.join(venues)}"
 
     description_lines = ["SFMTA Special Event Parking Regulations are in effect.", ""]
     description_lines.extend([f"{venue}: {hours}" for venue, hours in details])
-    description_lines.append("")
+    description_lines.extend(["", f"Source: {url}", ""])
     description = "\n".join(description_lines)
 
     uid_key = ";".join([f"{venue}:{hours}" for venue, hours in details])
@@ -373,7 +373,6 @@ def build_ical(*, calname: str, url: str, events: List[CalendarEvent]) -> str:
         f"X-WR-CALNAME:{_ical_escape(calname)}",
         f"X-WR-CALDESC:{_ical_escape('SFMTA special event parking meter rates and tow-away zones dates.')}",
         f"X-WR-TIMEZONE:{LOCAL_TZID}",
-        f"URL:{_ical_escape(url)}",
     ]
 
     for event in sorted(
@@ -401,7 +400,6 @@ def build_ical(*, calname: str, url: str, events: List[CalendarEvent]) -> str:
         lines.append(f"SUMMARY:{_ical_escape(event.summary)}")
         lines.append(f"DESCRIPTION:{_ical_escape(event.description)}")
         lines.append(f"LOCATION:{_ical_escape(event.location)}")
-        lines.append(f"URL:{_ical_escape(url)}")
         lines.append("TRANSP:OPAQUE")
         lines.append("END:VEVENT")
 
