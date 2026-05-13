@@ -6,109 +6,34 @@ X-WR-CALDESC:SFMTA special event parking meter rates dates.
 X-WR-CALNAME:SFMTA Special Event Parking
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:SFMTA event parking rates — Oracle Park
-DTSTART;TZID=America/Los_Angeles:20260504T180000
-DTEND;TZID=America/Los_Angeles:20260504T220000
-DTSTAMP:20260328T183748Z
-UID:fdce71118d628402700bed5fa1553ee0bc8c78f3@missionbayparking
-SEQUENCE:1
-DESCRIPTION:SFMTA Special Event Parking Regulations are in effect.\n\nOrac
- le Park: 6 PM to 10 PM\n\nSource: https://www.sfmta.com/notices/current-sp
- ecial-event-parking-regulations-schedule\n
-LAST-MODIFIED:20260328T183748Z
-LOCATION:Oracle Park\, San Francisco\, CA
-TRANSP:OPAQUE
-X-CONTENT-HASH:c5c472c9994879760111c8986b0057b1013c64d3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SFMTA event parking rates — Oracle Park
-DTSTART;TZID=America/Los_Angeles:20260505T180000
-DTEND;TZID=America/Los_Angeles:20260505T220000
-DTSTAMP:20260328T183748Z
-UID:387b3629b198b6b8957e92d4f6ba01cc546e3f74@missionbayparking
-SEQUENCE:1
-DESCRIPTION:SFMTA Special Event Parking Regulations are in effect.\n\nOrac
- le Park: 6 PM to 10 PM\n\nSource: https://www.sfmta.com/notices/current-sp
- ecial-event-parking-regulations-schedule\n
-LAST-MODIFIED:20260328T183748Z
-LOCATION:Oracle Park\, San Francisco\, CA
-TRANSP:OPAQUE
-X-CONTENT-HASH:064baaf0df2482cbaa5ce6bdea0a2c8c00166d23
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SFMTA event parking rates — Oracle Park
-DTSTART;TZID=America/Los_Angeles:20260506T120000
-DTEND;TZID=America/Los_Angeles:20260506T180000
-DTSTAMP:20260328T183748Z
-UID:b8bc0bfd0a1450ec6caff963220b3a909a59ba52@missionbayparking
-SEQUENCE:1
-DESCRIPTION:SFMTA Special Event Parking Regulations are in effect.\n\nOrac
- le Park: 12 PM to 6 PM\n\nSource: https://www.sfmta.com/notices/current-sp
- ecial-event-parking-regulations-schedule\n
-LAST-MODIFIED:20260328T183748Z
-LOCATION:Oracle Park\, San Francisco\, CA
-TRANSP:OPAQUE
-X-CONTENT-HASH:4d00d336967084ac3fb1c56540c054bdeea18eec
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SFMTA event parking rates — Oracle Park
-DTSTART;TZID=America/Los_Angeles:20260508T180000
-DTEND;TZID=America/Los_Angeles:20260508T220000
-DTSTAMP:20260328T183748Z
-UID:6184e39818c9a2b5c03458a99d9662137f167230@missionbayparking
-SEQUENCE:1
-DESCRIPTION:SFMTA Special Event Parking Regulations are in effect.\n\nOrac
- le Park: 6 PM to 10 PM\n\nSource: https://www.sfmta.com/notices/current-sp
- ecial-event-parking-regulations-schedule\n
-LAST-MODIFIED:20260328T183748Z
-LOCATION:Oracle Park\, San Francisco\, CA
-TRANSP:OPAQUE
-X-CONTENT-HASH:22b7be29c1f2c48e67557aedce5007bf211c30a9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SFMTA event parking rates — Oracle Park
-DTSTART;TZID=America/Los_Angeles:20260509T180000
-DTEND;TZID=America/Los_Angeles:20260509T220000
-DTSTAMP:20260328T183748Z
-UID:4935e2c4ea42452e1591059bc411f3fa7ae3af4c@missionbayparking
-SEQUENCE:1
-DESCRIPTION:SFMTA Special Event Parking Regulations are in effect.\n\nOrac
- le Park: 6 PM to 10 PM\n\nSource: https://www.sfmta.com/notices/current-sp
- ecial-event-parking-regulations-schedule\n
-LAST-MODIFIED:20260328T183748Z
-LOCATION:Oracle Park\, San Francisco\, CA
-TRANSP:OPAQUE
-X-CONTENT-HASH:e7770349842e600b96e956a6eb946cc315af4b52
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SFMTA event parking rates — Oracle Park
-DTSTART;TZID=America/Los_Angeles:20260510T120000
-DTEND;TZID=America/Los_Angeles:20260510T180000
-DTSTAMP:20260328T183748Z
-UID:e9966855fbcdc25c70a109cd3a80b0872ad1ea9e@missionbayparking
-SEQUENCE:1
-DESCRIPTION:SFMTA Special Event Parking Regulations are in effect.\n\nOrac
- le Park: 12 PM to 6 PM\n\nSource: https://www.sfmta.com/notices/current-sp
- ecial-event-parking-regulations-schedule\n
-LAST-MODIFIED:20260328T183748Z
-LOCATION:Oracle Park\, San Francisco\, CA
-TRANSP:OPAQUE
-X-CONTENT-HASH:ea9637199ccdf9f5a72e1d9767752a73af34a980
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SFMTA event parking rates — Chase Center
-DTSTART;TZID=America/Los_Angeles:20260511T180000
-DTEND;TZID=America/Los_Angeles:20260511T220000
-DTSTAMP:20260328T183748Z
-UID:8f4356113a8ce3a858a91712f9e71870a39be1b9@missionbayparking
-SEQUENCE:1
+DTSTART;TZID=America/Los_Angeles:20260513T180000
+DTEND;TZID=America/Los_Angeles:20260513T220000
+DTSTAMP:20260513T102224Z
+UID:f56d389a611a079878cb36a64f681943c9fb6112@missionbayparking
+SEQUENCE:0
 DESCRIPTION:SFMTA Special Event Parking Regulations are in effect.\n\nChas
  e Center: 6 PM to 10 PM\n\nSource: https://www.sfmta.com/notices/current-s
  pecial-event-parking-regulations-schedule\n
-LAST-MODIFIED:20260328T183748Z
+LAST-MODIFIED:20260513T102224Z
 LOCATION:Chase Center\, San Francisco\, CA
 TRANSP:OPAQUE
-X-CONTENT-HASH:be50680f6975beb7c0923e2b772d2208d3bb099b
+X-CONTENT-HASH:297e7a2c4bc63c30737c1a04f74fa3318477f53f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFMTA event parking rates — Chase Center
+DTSTART;TZID=America/Los_Angeles:20260514T180000
+DTEND;TZID=America/Los_Angeles:20260514T220000
+DTSTAMP:20260513T102224Z
+UID:1d4b808715e2709b7fbf57010b5c09bd93d333ec@missionbayparking
+SEQUENCE:0
+DESCRIPTION:SFMTA Special Event Parking Regulations are in effect.\n\nChas
+ e Center: 6 PM to 10 PM\n\nSource: https://www.sfmta.com/notices/current-s
+ pecial-event-parking-regulations-schedule\n
+LAST-MODIFIED:20260513T102224Z
+LOCATION:Chase Center\, San Francisco\, CA
+TRANSP:OPAQUE
+X-CONTENT-HASH:92bbad8e452868200e175ed5e0088aa6c29a9286
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SFMTA event parking rates — Chase Center
@@ -171,19 +96,19 @@ TRANSP:OPAQUE
 X-CONTENT-HASH:7d7185fa4327cdfe5ca3cb3e7bfdfe9d67c34b14
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SFMTA event parking rates — Oracle Park
+SUMMARY:SFMTA event parking rates — Chase Center / Oracle Park
 DTSTART;TZID=America/Los_Angeles:20260525T120000
-DTEND;TZID=America/Los_Angeles:20260525T180000
-DTSTAMP:20260328T183748Z
-UID:3f7eeabac30b6d9a5483d5c62d839988e76523d7@missionbayparking
-SEQUENCE:1
-DESCRIPTION:SFMTA Special Event Parking Regulations are in effect.\n\nOrac
- le Park: 12 PM to 6 PM\n\nSource: https://www.sfmta.com/notices/current-sp
- ecial-event-parking-regulations-schedule\n
-LAST-MODIFIED:20260328T183748Z
-LOCATION:Oracle Park\, San Francisco\, CA
+DTEND;TZID=America/Los_Angeles:20260525T220000
+DTSTAMP:20260513T102224Z
+UID:3e319712cfc079d16f1740e78df7e9e96c7a540f@missionbayparking
+SEQUENCE:0
+DESCRIPTION:SFMTA Special Event Parking Regulations are in effect.\n\nChas
+ e Center: 6 PM to 10 PM\nOracle Park: 12 PM to 6 PM\n\nSource: https://www
+ .sfmta.com/notices/current-special-event-parking-regulations-schedule\n
+LAST-MODIFIED:20260513T102224Z
+LOCATION:Oracle Park & Chase Center\, San Francisco\, CA
 TRANSP:OPAQUE
-X-CONTENT-HASH:06c32c506c3ed91dfcec4d6f2b7c1c51045ebb7a
+X-CONTENT-HASH:9734f466591e91567194f62478cf582dcf7dbc59
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SFMTA event parking rates — Oracle Park
@@ -214,6 +139,36 @@ LAST-MODIFIED:20260328T183748Z
 LOCATION:Oracle Park\, San Francisco\, CA
 TRANSP:OPAQUE
 X-CONTENT-HASH:5e8c24b658bcdc57896a96d5bae77b89079c616f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFMTA event parking rates — Chase Center
+DTSTART;TZID=America/Los_Angeles:20260528T180000
+DTEND;TZID=America/Los_Angeles:20260528T220000
+DTSTAMP:20260513T102224Z
+UID:f980011cb4b9f36060e5c4e0cfff5768bbae55cc@missionbayparking
+SEQUENCE:0
+DESCRIPTION:SFMTA Special Event Parking Regulations are in effect.\n\nChas
+ e Center: 6 PM to 10 PM\n\nSource: https://www.sfmta.com/notices/current-s
+ pecial-event-parking-regulations-schedule\n
+LAST-MODIFIED:20260513T102224Z
+LOCATION:Chase Center\, San Francisco\, CA
+TRANSP:OPAQUE
+X-CONTENT-HASH:6bd6b02480cad4a79141747cb772bf33d3cb8b5a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFMTA event parking rates — Chase Center
+DTSTART;TZID=America/Los_Angeles:20260531T120000
+DTEND;TZID=America/Los_Angeles:20260531T180000
+DTSTAMP:20260513T102224Z
+UID:22514d4fba9eee82f562ea811f559b427a9a6bc4@missionbayparking
+SEQUENCE:0
+DESCRIPTION:SFMTA Special Event Parking Regulations are in effect.\n\nChas
+ e Center: 12 PM to 6 PM\n\nSource: https://www.sfmta.com/notices/current-s
+ pecial-event-parking-regulations-schedule\n
+LAST-MODIFIED:20260513T102224Z
+LOCATION:Chase Center\, San Francisco\, CA
+TRANSP:OPAQUE
+X-CONTENT-HASH:c2e1312c959fccf28c71ac2d41573431c8c92598
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SFMTA event parking rates — Oracle Park
