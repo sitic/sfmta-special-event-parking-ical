@@ -6,51 +6,6 @@ X-WR-CALDESC:SFMTA special event parking meter rates dates.
 X-WR-CALNAME:SFMTA Special Event Parking
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:SFMTA event parking rates — Chase Center
-DTSTART;TZID=America/Los_Angeles:20260513T180000
-DTEND;TZID=America/Los_Angeles:20260513T220000
-DTSTAMP:20260513T102224Z
-UID:f56d389a611a079878cb36a64f681943c9fb6112@missionbayparking
-SEQUENCE:0
-DESCRIPTION:SFMTA Special Event Parking Regulations are in effect.\n\nChas
- e Center: 6 PM to 10 PM\n\nSource: https://www.sfmta.com/notices/current-s
- pecial-event-parking-regulations-schedule\n
-LAST-MODIFIED:20260513T102224Z
-LOCATION:Chase Center\, San Francisco\, CA
-TRANSP:OPAQUE
-X-CONTENT-HASH:297e7a2c4bc63c30737c1a04f74fa3318477f53f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SFMTA event parking rates — Chase Center
-DTSTART;TZID=America/Los_Angeles:20260514T180000
-DTEND;TZID=America/Los_Angeles:20260514T220000
-DTSTAMP:20260513T102224Z
-UID:1d4b808715e2709b7fbf57010b5c09bd93d333ec@missionbayparking
-SEQUENCE:0
-DESCRIPTION:SFMTA Special Event Parking Regulations are in effect.\n\nChas
- e Center: 6 PM to 10 PM\n\nSource: https://www.sfmta.com/notices/current-s
- pecial-event-parking-regulations-schedule\n
-LAST-MODIFIED:20260513T102224Z
-LOCATION:Chase Center\, San Francisco\, CA
-TRANSP:OPAQUE
-X-CONTENT-HASH:92bbad8e452868200e175ed5e0088aa6c29a9286
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SFMTA event parking rates — Chase Center
-DTSTART;TZID=America/Los_Angeles:20260515T180000
-DTEND;TZID=America/Los_Angeles:20260515T220000
-DTSTAMP:20260328T183748Z
-UID:1493d26bec570d085dbe298a96c43936e3649021@missionbayparking
-SEQUENCE:1
-DESCRIPTION:SFMTA Special Event Parking Regulations are in effect.\n\nChas
- e Center: 6 PM to 10 PM\n\nSource: https://www.sfmta.com/notices/current-s
- pecial-event-parking-regulations-schedule\n
-LAST-MODIFIED:20260328T183748Z
-LOCATION:Chase Center\, San Francisco\, CA
-TRANSP:OPAQUE
-X-CONTENT-HASH:1a490a8eecbf7b5d1bcefc4594fc1d0f54d9598e
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SFMTA event parking rates — Oracle Park
 DTSTART;TZID=America/Los_Angeles:20260522T180000
 DTEND;TZID=America/Los_Angeles:20260522T220000
