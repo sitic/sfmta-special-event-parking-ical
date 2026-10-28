@@ -7,66 +7,6 @@ X-WR-CALNAME:SFMTA Special Event Parking
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
 SUMMARY:SFMTA event parking rates — Chase Center
-DTSTART;TZID=America/Los_Angeles:20261023T180000
-DTEND;TZID=America/Los_Angeles:20261023T220000
-DTSTAMP:20261016T125856Z
-UID:5baba66c9d3db54a9abc7282fd173fa2fdea6ca3@missionbayparking
-SEQUENCE:0
-DESCRIPTION:SFMTA Special Event Parking Regulations are in effect.\n\nChas
- e Center: 6 PM to 10 PM\n\nSource: https://www.sfmta.com/notices/current-s
- pecial-event-parking-regulations-schedule\n
-LAST-MODIFIED:20261016T125856Z
-LOCATION:Chase Center\, San Francisco\, CA
-TRANSP:OPAQUE
-X-CONTENT-HASH:2dcdf5346c48798d051330dd02a134919d171331
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SFMTA event parking rates — Chase Center
-DTSTART;TZID=America/Los_Angeles:20261024T120000
-DTEND;TZID=America/Los_Angeles:20261024T180000
-DTSTAMP:20261023T130156Z
-UID:8cf9e64140de1a077c4834db244668197c848453@missionbayparking
-SEQUENCE:0
-DESCRIPTION:SFMTA Special Event Parking Regulations are in effect.\n\nChas
- e Center: 12 PM to 6 PM\n\nSource: https://www.sfmta.com/notices/current-s
- pecial-event-parking-regulations-schedule\n
-LAST-MODIFIED:20261023T130156Z
-LOCATION:Chase Center\, San Francisco\, CA
-TRANSP:OPAQUE
-X-CONTENT-HASH:5f4b7ebddb3052fc75c39414088b91440e8abdee
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SFMTA event parking rates — Chase Center
-DTSTART;TZID=America/Los_Angeles:20261025T180000
-DTEND;TZID=America/Los_Angeles:20261025T220000
-DTSTAMP:20261016T125856Z
-UID:60791b7a60d866c76f273575acb706727f3274bb@missionbayparking
-SEQUENCE:0
-DESCRIPTION:SFMTA Special Event Parking Regulations are in effect.\n\nChas
- e Center: 6 PM to 10 PM\n\nSource: https://www.sfmta.com/notices/current-s
- pecial-event-parking-regulations-schedule\n
-LAST-MODIFIED:20261016T125856Z
-LOCATION:Chase Center\, San Francisco\, CA
-TRANSP:OPAQUE
-X-CONTENT-HASH:cdcbbadd5941552f886396a3f2fe7c76702c43ce
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SFMTA event parking rates — Chase Center
-DTSTART;TZID=America/Los_Angeles:20261026T150000
-DTEND;TZID=America/Los_Angeles:20261026T220000
-DTSTAMP:20261023T130156Z
-UID:6a2c494538367ffff8be0b86dca55d9afb0ca333@missionbayparking
-SEQUENCE:0
-DESCRIPTION:SFMTA Special Event Parking Regulations are in effect.\n\nChas
- e Center: 3 PM to 10 PM\n\nSource: https://www.sfmta.com/notices/current-s
- pecial-event-parking-regulations-schedule\n
-LAST-MODIFIED:20261023T130156Z
-LOCATION:Chase Center\, San Francisco\, CA
-TRANSP:OPAQUE
-X-CONTENT-HASH:9257c43d30184b59491d4000a69b13380678003a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SFMTA event parking rates — Chase Center
 DTSTART;TZID=America/Los_Angeles:20261027T180000
 DTEND;TZID=America/Los_Angeles:20261027T220000
 DTSTAMP:20260814T090324Z
